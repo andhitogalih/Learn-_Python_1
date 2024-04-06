@@ -147,9 +147,40 @@ while condition:
 ## Break
 A break statement in Python alters the flow of a loop by terminating it once a specified condition is met.
 
+```
+for i in range(1, 10):
+  if i == 5:
+    break
+  print(i)
+```
+
+```
+Output :
+1
+2
+3
+4
+```
+
 ## Countinue
 The continue statement in Python is used to skip the remaining code inside a loop for the current iteration only.
-
+```
+for i in range(1, 10):
+  if i == 5:
+    continue
+  print(i)
+```
+```
+Output :
+1
+2
+3
+4
+6
+7
+8
+9
+```
 ## List Comprehension
 List Comprehension is a way to generate new lists based on previously existing lists or iterables. List comprehension offers a shorter syntax when you want to create a new list based on the values of an existing list.
 
