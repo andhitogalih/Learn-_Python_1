@@ -67,13 +67,13 @@ A data type is an attribute associated with a piece of data that tells a compute
 ### Number
 The numeric data type in Python represents the data that has a numeric value. A numeric value can be an integer, a floating number, or even a complex number.
 
-####  int
+- **int**
 The integer data type is a numeric data type that holds whole numbers.
 
-####  float
+- **float**
 The float data type is used for variables that have fractional / decimal values.
 
-####  complex
+- **complex**
 Complex data types. It represents imaginary values.
 
 ### String
