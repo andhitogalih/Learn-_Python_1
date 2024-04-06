@@ -65,10 +65,10 @@ A dictionary in Python is a collection of unordered key-value pairs. Dictionarie
 - Keys and values can be any type of variable / object
 
 ## Python Comparison Operators
-![alt text](?raw=true) 
+![alt text](https://github.com/andhitogalih/Learn-_Python_1/blob/main/public/image/Aritmatic%20Operators.png?raw=true) 
 
 ## Python Aritmetic Operators
-![alt text](?raw=true)
+![alt text](https://github.com/andhitogalih/Learn-_Python_1/blob/main/public/image/Comparision%20Operator.png?raw=true)
 
 ## Conditional Expressions
 ### If
