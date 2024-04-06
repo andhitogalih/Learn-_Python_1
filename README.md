@@ -1,4 +1,13 @@
-# Learn-_Python_1
+# Learn_Python_1
+**Welcome to this Python learning repository!**
+
+This repository is designed to make learning Python for students easy and enjoyable. Here, you'll find various learning materials, including:
+*Python Basic
+*Data type
+*Python Comparison Operators
+*Python Aritmetic Operators
+*Conditional Expressions
+*Looping
 
 ## Python
 Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because Python code is concise and easy to read. Whatever you want to do, python can do it. From web development to machine learning to data science, Python is the language for you.
