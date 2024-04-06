@@ -48,6 +48,8 @@ To print a string and a variable in Python, we can use the print() function. the
   We use argument specifiers like %s, %d, etc., in strings which are then replaced by some
   value.
   Commonly used:
+
+
   ![alt text](https://github.com/andhitogalih/Learn-_Python_1/blob/main/public/image/Argument%20Specifier.png?raw=true) 
 
 ## Data type
