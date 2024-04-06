@@ -48,7 +48,7 @@ To print a string and a variable in Python, we can use the print() function. the
   We use argument specifiers like %s, %d, etc., in strings which are then replaced by some
   value.
   Commonly used:
-![alt text](?raw=true) 
+  ![alt text](https://github.com/andhitogalih/Learn-_Python_1/blob/main/public/image/Argument%20Specifier.png?raw=true) 
 
 ## Data type
 A data type is an attribute associated with a piece of data that tells a computer system how to interpret its value. Python Data Types are used to define the type of a variable. It defines what type of data we are going to store in a variable. The data stored in memory can be of many types.
@@ -129,18 +129,18 @@ Looping means repeating something over and over until a particular condition is 
 In Python, the For Loop is used to iterate over a list, tuple, or string, as well as other iterable objects. Iterating over a sequence involves going through each element one by one.
 
 Syntax :
-'''
-for iterating_var in sequence:
+ ```python
+   for iterating_var in sequence:
    statements(s)
-'''
+   ```
 
 ### While
 A while loop in Python is a control flow statement that allows a block of code to be executed repeatedly based on a given Boolean condition. In other words, the while loop will keep iterating and running the code block inside of it until the specified condition evaluates to False.
 Syntax :
-'''
+```
 while condition:
     statements
-'''
+```
 
 ## Break
 A break statement in Python alters the flow of a loop by terminating it once a specified condition is met.
@@ -152,6 +152,6 @@ The continue statement in Python is used to skip the remaining code inside a loo
 List Comprehension is a way to generate new lists based on previously existing lists or iterables. List comprehension offers a shorter syntax when you want to create a new list based on the values of an existing list.
 
 Syntax : 
-'''
+```
 newlist = [expression for item in iterable if condition == True]
-'''
+```
